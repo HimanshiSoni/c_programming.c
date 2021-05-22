@@ -5,6 +5,6 @@ int main()
    printf("enter two values:");
    scanf("%d %d",&a,&b);
    c=a-b;
-   printf("addition:%d",c);
+   printf("substraction:%d",c);
    return 0;
 }
