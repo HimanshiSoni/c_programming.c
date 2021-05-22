@@ -5,6 +5,6 @@ int main()
    printf("enter five values:");
    scanf("%d %d %d %d %d",&a,&b,&c,&d,&e);
    f=(a+b+c+d+e)/5;
-   printf("addition:%d",f);
+   printf("average:%d",f);
    return 0;
 }
